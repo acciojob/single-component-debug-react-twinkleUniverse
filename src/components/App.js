@@ -5,7 +5,7 @@ const App = ()=>{
     return (
         <div id="main">
             
-            <p>Hello First react programe</p>
+            <p>Now I can render any React component on any DOM node I want using ReactDOM.render.</p>
               
         </div>
     );
